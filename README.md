@@ -11,3 +11,9 @@
 тут у нас изменения
 
 <img width="896" height="387" alt="{6BE4EABE-D326-45AD-B4A4-3DFB08736771}" src="https://github.com/user-attachments/assets/2cc83376-6e3c-4e97-8940-5c7b62d3250b" />
+
+<img width="914" height="564" alt="{402A4991-D083-4DF5-9C71-7282AEC147CD}" src="https://github.com/user-attachments/assets/20722695-3164-44b7-aeaa-eb9e0566a871" />
+
+отследили поток
+
+<img width="1854" height="660" alt="{4FED750D-085C-4008-8499-75A3D3861680}" src="https://github.com/user-attachments/assets/70c0d6dd-9130-42ad-9748-e1267891c147" />
